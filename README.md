@@ -1,4 +1,4 @@
 #ASP.NET CORE PROJECT
-#Technologies 
-#How config and run
-#How to contribute 
+##Technologies 
+##How config and run
+##How to contribute 
