@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/eShopSolution
+/eShopSolution.Data/bin/Debug/netcoreapp3.1/eShopSolution.Data.deps.json
+/eShopSolution.Data/bin/Debug/netcoreapp3.1/eShopSolution.Data.dll
+/eShopSolution.Data/bin/Debug/netcoreapp3.1/eShopSolution.Data.pdb
+/eShopSolution.Data/bin/Debug/netcoreapp3.1/eShopSolution.Data.runtimeconfig.dev.json
+/eShopSolution.Data/bin/Debug/netcoreapp3.1/eShopSolution.Data.runtimeconfig.json
+/eShopSolution.Data/obj/Debug/netcoreapp3.1/eShopSolution.Data.csproj.CoreCompileInputs.cache
+/eShopSolution.Data/obj/Debug/netcoreapp3.1/eShopSolution.Data.dll
+/eShopSolution.Data/obj/Debug/netcoreapp3.1/eShopSolution.Data.pdb
