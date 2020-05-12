@@ -6,3 +6,7 @@ D:\a .NET project\web git eShopSolution\eShopSolution\eShopSolution.Data\obj\Deb
 D:\a .NET project\web git eShopSolution\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.json
 D:\a .NET project\web git eShopSolution\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.dev.json
 D:\a .NET project\web git eShopSolution\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.genruntimeconfig.cache
+D:\a .NET project\web git eShopSolution\eShopSolution\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+D:\a .NET project\web git eShopSolution\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.dll
+D:\a .NET project\web git eShopSolution\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+D:\a .NET project\web git eShopSolution\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.CoreCompileInputs.cache
